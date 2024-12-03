@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>My First React App</h1>
+    <h1>GG, was fun! - Canek</h1>
   );
 }
 
